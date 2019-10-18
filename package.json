@@ -1,4 +1,4 @@
- 
+﻿ 
 {
   "name": "my-server",
   "version": "1.0.0",
@@ -6,8 +6,15 @@
   "main": "Example node server",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  "start": "node server.js"
   },
-  "author": "",
+
+"repository" : 
+{
+"type" : "git",
+"url" : "https://github.com/Kamal4195/my-server"
+}, 
+  "author": "Kamal Reddy Donthireddy",
   "license": "ISC"
 } 
  
